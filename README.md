@@ -62,3 +62,11 @@ Navigating the vast exoplanet dataset has presented various challenges. Visualiz
 <h2>Data Sources</h2>
 
 https://exoplanet.eu/catalog/
+
+
+
+
+
+<h2>Conclusion</h2>
+
+This analysis has explored the diverse landscape of exoplanet detection methods, highlighting their unique strengths and limitations. Revealing a clear dominance of the transit method, particularly for planets orbiting close to their host stars. I observed a distinct relationship between detection method, distance reach, and the types of exoplanets discovered. Notably, exoplanet radii exhibit a strong correlation with their distance from their host stars, while the distribution of exoplanet masses and distances is significantly influenced by the inherent biases of each detection technique. The scarcity of exoplanets with extremely short orbital periods remains a compelling mystery that demands further investigation. As our understanding of exoplanets continues to deepen, we anticipate groundbreaking discoveries that will revolutionize our perception of planetary systems and the potential for life beyond Earth.
