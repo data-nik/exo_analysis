@@ -48,9 +48,9 @@ Navigating the vast exoplanet dataset has presented various challenges. Visualiz
 
 - Python/Pandas 
 
-- Git
+- SQL
 
-- Excel
+- Git
 
 - Power Point
 
