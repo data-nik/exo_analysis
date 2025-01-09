@@ -17,7 +17,7 @@ My inspiration for this project's topic stems from an inherent curiosity about l
 
 2. How do the distances of stars detected by different detection methods compare?
 
-3. How does exoplanet radius and mass vary with distance from the host star for different detection methods?
+3. How does the exoplanet mass distribution vary between the different detection methods?
 
 4. What factors might explain the apparent scarcity of exoplanets with extremely short orbital periods?
 
